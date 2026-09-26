@@ -43,12 +43,13 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Yedidia-3&show_icons=true&hide_border=true&theme=default&title_color=000000&text_color=333333&icon_color=000000&bg_color=ffffff" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yedidia-3&layout=compact&hide_border=true&theme=default&title_color=000000&text_color=333333&bg_color=ffffff" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Yedidia-3&show_icons=true&hide_border=true&theme=default&title_color=000000&text_color=333333&icon_color=000000&bg_color=ffffff" alt="GitHub Stats" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yedidia-3&layout=compact&hide_border=true&theme=default&title_color=000000&text_color=333333&bg_color=ffffff" alt="Top Languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yedidia-3&hide_border=true&theme=default&background=FFFFFF&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yedidia-3&hide_border=true&theme=default&background=FFFFFF&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000" alt="Streak Stats" />
 
 </div>
 
